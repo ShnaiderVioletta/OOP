@@ -27,7 +27,7 @@ namespace ConsoleApplication16
         public Point Geolocation { get; set; }
         public Man()
         {
-            Console.WriteLine("I was born!");
+            Console.WriteLine("Hello, world! I was born!");
             name = "";
             age = 0;
             money = 0;
